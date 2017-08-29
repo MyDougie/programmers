@@ -1,5 +1,8 @@
 package 가운데글자가져오기;
 
+/**
+ * 가운데 글자 가져오기 - 2017/08/29 - Park Taegyu
+ * */
 public class StringExercise {
 
 	String getMiddle(String word) {
